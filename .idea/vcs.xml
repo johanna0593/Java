@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/AnoBissexto.java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/CalculadoraDescontos.java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/CalculadoraIdade.java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/CalculadoraImpostoRenda.java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/CalculadoraMedia.java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/ClassificacaoTriangulo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/ClassificacaoTriangulo.java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/ContagemPalavras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/ConversorMoedas.java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/JogoAdivinhacao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/SequenciaNumerica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/Tp1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP1/ValidadorSenha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP3" vcs="Git" />
+  </component>
+</project>
