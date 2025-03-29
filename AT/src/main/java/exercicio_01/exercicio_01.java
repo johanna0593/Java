@@ -1,7 +1,7 @@
 package exercicio_01;
 
 public class exercicio_01 {
-    public void Start() {
-
+    public static void Start() {
+        System.out.println("Olá, meu nome é Johanna e estou aprendendo Java!");
     }
 }
