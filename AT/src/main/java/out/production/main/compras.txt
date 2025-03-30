@@ -1,0 +1,3 @@
+Produto: coca, Quantidade: 1, Preço Unitário: 7.0
+Produto: leite, Quantidade: 8, Preço Unitário: 7.0
+Produto: mel, Quantidade: 2, Preço Unitário: 23.0
