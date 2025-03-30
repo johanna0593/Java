@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class exercicio_07 {
 
-    public static void start(String[] args) {
+    public static void Start () {
         Scanner scanner = new Scanner(System.in);
 
         // Solicitar dados do aluno

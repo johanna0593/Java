@@ -41,9 +41,9 @@ class ContaBancaria {
 
 // Classe principal para testar a ContaBancaria
 public class exercicio_09 {
-    public static void main(String[] args) {
-        // Criando uma conta bancária com titular "João Silva" e saldo inicial de R$ 1000
-        ContaBancaria conta = new ContaBancaria("João Silva", 1000);
+    public static void Start() {
+        // Criando uma conta bancária com titular "Johanna Liza" e saldo inicial de R$ 1000
+        ContaBancaria conta = new ContaBancaria("Johanna Liza", 1000);
 
         // Exibindo o saldo inicial
         conta.exibirSaldo();

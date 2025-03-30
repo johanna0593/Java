@@ -56,9 +56,9 @@ class Estagiario extends Funcionario {
 
 // Classe principal com o método main
 public class exercicio_08 {
-    public static void main(String[] args) {
+    public static void Start() {
         // Criando objetos de Gerente e Estagiario
-        Funcionario gerente = new Gerente("Carlos Silva", 5000);
+        Funcionario gerente = new Gerente("Johanna Liza", 5000);
         Funcionario estagiario = new Estagiario("Ana Oliveira", 1500);
 
         // Exibindo os detalhes e os salários finais
