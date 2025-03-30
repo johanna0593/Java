@@ -30,7 +30,7 @@ public class exercicio_02 {
 
         } while (!senhaValida);
 
-        System.out.println("Senha cadastrada com sucesso!");
+        System.out.println("Sua senha foi cadastrada com sucesso!");
         scanner.close();
     }
 
